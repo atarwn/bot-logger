@@ -32,9 +32,10 @@ Same or similar to setting up a bot in Windows or Linux terminal
 4. Windows terminal will open, write `pip install discord`
 5. The preparation is complete! Now follow the instructions to install and configuring the bot
 ### Linux Terminal
-1. `apt install python` or `pkg install python`
-2. `pip install discord`
-3. The preparation is complete! Now follow the instructions to install and configuring the bot
+1. `apt install git` or `pkg install git`
+2. `apt install python` or `pkg install python`
+3. `pip install discord`
+4. The preparation is complete! Now follow the instructions to install and configuring the bot
 
 > `First attempt to write a normal README.md`
 
