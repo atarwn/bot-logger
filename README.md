@@ -1,7 +1,7 @@
 # bot-logger
 Simple discord bot, that can log all your messages on the server
 
-[README на русском тут](https://github.com/atarwn/bot-logger/blob/main/RU-README.MD)
+[README на русском тут](https://github.com/atarwn/bot-logger/blob/main/RU-README.md)
 ## How it works
 The bot reads the message, its author, and the channel on which it was sent. Then, it saves it to the `log.txt` file like "author@channel: message"
 
